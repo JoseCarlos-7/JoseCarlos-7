@@ -7,8 +7,10 @@ Partindo desse entendimento, utilizo tecnologia para arquitetar soluções. <br>
 Por aqui você pode encontrar repositórios de estudo, que replicam soluções que foram aplicadas em casos reais, ou estudos com a finalidade de aprendizado contíuo. <br>
 
 ### 📚 Projetos
-Estudo sobre performance:
-Um estudo sobre o impacto do uso de parâmetros como (chunksize, blocksize, parallel), bem como estrutura de arquivos na velocidade de leitura das Python Libs (Pandas, Dask, Duckdb e Polars) <br>
 ['performance'](https://github.com/JoseCarlos-7/estudos_sobre_performance).
+Um estudo sobre o impacto do uso de parâmetros como (chunksize, blocksize, parallel), bem como estrutura de arquivos na velocidade de leitura das Python Libs (Pandas, Dask, Duckdb e Polars) <br>
+
+['Análise de vendas'](https://github.com/JoseCarlos-7/papelaria_estudo_de_caso)
+Estudo sobre arquitetura para solução de dados on premises, utilizando Docker, Airflow, Python e Postgres <br>
 
 
